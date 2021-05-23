@@ -1,10 +1,9 @@
-# Firebase Starter
+# Firebase Starter kit
 
 Flutter + Firebase starter kit.
 
 ## Getting Started
 
-How do I code this ? - https://youtu.be/2sGNjF1HpyA
 
 Design credit - https://dribbble.com/shots/5239966-Daily-UI-001/attachments/5239966-Daily-UI-001?mode=media
 
